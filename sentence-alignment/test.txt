@@ -1,0 +1,20 @@
+November	['November', 'Nov']
+
+Ravana	[]
+
+India	['India', 'Bharat']
+
+relationship	['relationship', 'kinship']
+
+ahead	['leading', 'forward', 'onward', 'before', 'forrader', 'forwards', 'beforehand', 'ahead', 'onwards']
+
+family	['kin', 'house', 'mob', 'category', 'syndicate', 'fellowship', 'kinfolk', 'class', 'folk', 'menage', 'phratry', 'kinsfolk', 'household', 'home', 'sept', 'kinsperson', 'family']
+
+bulb	['medulla', 'bulb', 'lightbulb']
+
+passer-by	['passer', 'passerby', 'passer-by']
+
+overcrowded	['overcrowd']
+
+relative	['relative', 'comparative', 'congenator', 'proportional', 'relation', 'congener', 'congeneric']
+
