@@ -20,7 +20,7 @@ f2=open("meta.txt","w", encoding="utf-8")
 #-------------------------------------------------------------------
 
 #---------get malayalam input and store it in sentence_mal-------------
-mal_sent = open('malayalam.txt', 'r').read()
+mal_sent = open('mal/malayalam.txt', 'r').read()
 mal_sent=mal_sent.strip()
 mal_sent+=" "
 sentence_mal=mal_sent.split(". ")
@@ -43,7 +43,7 @@ with open('mal/malayalam_lemma.pickle', 'rb') as file:
 
 
 #---------get english input and store it in eng_sent-------------
-eng_sent= open('english.txt', 'r').read()
+eng_sent= open('english/english.txt', 'r').read()
 eng_sent=eng_sent.strip()
 eng_sent+=" "
 eng_sent=eng_sent.split(". ")
