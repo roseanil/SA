@@ -1,0 +1,26 @@
+['diwali', 'celebrated', 'hindu', 'month', 'kartikamasam', 'fall', 'sometime', 'october', 'november']
+
+['celebrated', 'mark', 'return', 'lord', 'rama', '14', 'year', 'exile', 'victory', 'demon', 'ravana']
+
+['many', 'part', 'india', 'diwali', 'celebrated', 'five', 'consecutive', 'day', 'one', 'popular', 'festival', 'india']
+
+['hindu', 'regard', 'celebration', 'life', 'use', 'occasion', 'strengthen', 'family', 'relationship']
+
+['hindu', 'light', 'home', 'shop', 'welcome', 'goddess', 'lakshmi', 'give', 'good', 'luck', 'year', 'ahead']
+
+['day', 'ravtegh', 'day', 'diwali', 'house', 'building', 'shop', 'temple', 'thoroughly', 'cleaned', 'whitewashed', 'decorated', 'picture', 'toy', 'flower']
+
+['day', 'diwali', 'people', 'put', 'best', 'clothes', 'exchange', 'greeting', 'gift', 'sweet', 'friend', 'family']
+
+['night', 'building', 'illuminated', 'earthen', 'lamp', 'candlestick', 'electric', 'bulb']
+
+['sweet', 'toy', 'shop', 'decorated', 'attract', 'passer-by']
+
+['bazaar', 'street', 'overcrowded']
+
+['people', 'buy', 'sweet', 'family', 'also', 'send', 'present', 'friend', 'relative']
+
+['night', 'goddess', 'lakshmi', 'worshiped', 'form', 'earthen', 'image', 'silver', 'rupee']
+
+['hindu', 'believe', 'day', 'lakshmi', 'enters', 'house', 'neat', 'tidy']
+

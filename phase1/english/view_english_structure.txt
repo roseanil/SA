@@ -1,0 +1,169 @@
+Diwali is celebrated in the Hindu month of Kartikamasam which falls sometime during October or November
+
+16
+
+[('Diwali', 'NNP'), ('is', 'VBZ'), ('celebrated', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('Hindu', 'NNP'), ('month', 'NN'), ('of', 'IN'), ('Kartikamasam', 'NNP'), ('which', 'WDT'), ('falls', 'VBZ'), ('sometime', 'RB'), ('during', 'IN'), ('October', 'NNP'), ('or', 'CC'), ('November', 'NNP')]
+
+4
+
+{'R1': [[('of', 'IN'), ('Kartikamasam', 'NNP')], [('during', 'IN'), ('October', 'NNP')]], 'R2': [], 'R3': [[('is', 'VBZ'), ('celebrated', 'VBN')]], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': [[('falls', 'VBZ'), ('sometime', 'RB')]]}
+
+
+
+--------------
+It is celebrated to mark the return of Lord Rama from 14 years of Exile and his victory over the Demon Ravana
+
+22
+
+[('It', 'PRP'), ('is', 'VBZ'), ('celebrated', 'VBN'), ('to', 'TO'), ('mark', 'VB'), ('the', 'DT'), ('return', 'NN'), ('of', 'IN'), ('Lord', 'NNP'), ('Rama', 'NNP'), ('from', 'IN'), ('14', 'CD'), ('years', 'NNS'), ('of', 'IN'), ('Exile', 'NNP'), ('and', 'CC'), ('his', 'PRP$'), ('victory', 'NN'), ('over', 'IN'), ('the', 'DT'), ('Demon', 'NNP'), ('Ravana', 'NNP')]
+
+4
+
+{'R1': [[('of', 'IN'), ('Lord', 'NNP'), ('Rama', 'NNP')], [('of', 'IN'), ('Exile', 'NNP')], [('over', 'IN'), ('the', 'DT'), ('Demon', 'NNP'), ('Ravana', 'NNP')]], 'R2': [], 'R3': [[('is', 'VBZ'), ('celebrated', 'VBN')]], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+In many parts of India, Diwali is celebrated for five consecutive days and is one of the most popular festivals in India
+
+22
+
+[('In', 'IN'), ('many', 'JJ'), ('parts', 'NNS'), ('of', 'IN'), ('India,', 'NNP'), ('Diwali', 'NNP'), ('is', 'VBZ'), ('celebrated', 'VBN'), ('for', 'IN'), ('five', 'CD'), ('consecutive', 'JJ'), ('days', 'NNS'), ('and', 'CC'), ('is', 'VBZ'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('popular', 'JJ'), ('festivals', 'NNS'), ('in', 'IN'), ('India', 'NNP')]
+
+3
+
+{'R1': [[('In', 'IN'), ('many', 'JJ'), ('parts', 'NNS')], [('of', 'IN'), ('India,', 'NNP')], [('in', 'IN'), ('India', 'NNP')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+Hindus regard it as a celebration of life and use the occasion to strengthen family and relationships
+
+17
+
+[('Hindus', 'NNS'), ('regard', 'VBP'), ('it', 'PRP'), ('as', 'IN'), ('a', 'DT'), ('celebration', 'NN'), ('of', 'IN'), ('life', 'NN'), ('and', 'CC'), ('use', 'VB'), ('the', 'DT'), ('occasion', 'NN'), ('to', 'TO'), ('strengthen', 'VB'), ('family', 'NN'), ('and', 'CC'), ('relationships', 'NNS')]
+
+2
+
+{'R1': [[('as', 'IN'), ('a', 'DT'), ('celebration', 'NN')], [('of', 'IN'), ('life', 'NN')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+Hindus light up their homes and shops, to welcome the goddess Lakshmi, to give them good luck for the year ahead
+
+21
+
+[('Hindus', 'NNS'), ('light', 'VBP'), ('up', 'RP'), ('their', 'PRP$'), ('homes', 'NNS'), ('and', 'CC'), ('shops,', 'NN'), ('to', 'TO'), ('welcome', 'VB'), ('the', 'DT'), ('goddess', 'NN'), ('Lakshmi,', 'NN'), ('to', 'TO'), ('give', 'VB'), ('them', 'PRP'), ('good', 'JJ'), ('luck', 'NN'), ('for', 'IN'), ('the', 'DT'), ('year', 'NN'), ('ahead', 'RB')]
+
+1
+
+{'R1': [[('for', 'IN'), ('the', 'DT'), ('year', 'NN')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+A few days before Ravtegh, which is the day before Diwali, houses, buildings, shops and temples are thoroughly cleaned, whitewashed and decorated with pictures, toys and flowers
+
+27
+
+[('A', 'DT'), ('few', 'JJ'), ('days', 'NNS'), ('before', 'IN'), ('Ravtegh,', 'NN'), ('which', 'WDT'), ('is', 'VBZ'), ('the', 'DT'), ('day', 'NN'), ('before', 'IN'), ('Diwali,', 'FW'), ('houses,', 'FW'), ('buildings,', 'NN'), ('shops', 'NNS'), ('and', 'CC'), ('temples', 'NNS'), ('are', 'VBP'), ('thoroughly', 'RB'), ('cleaned,', 'RB'), ('whitewashed', 'VBN'), ('and', 'CC'), ('decorated', 'VBN'), ('with', 'IN'), ('pictures,', 'NN'), ('toys', 'NNS'), ('and', 'CC'), ('flowers', 'NNS')]
+
+4
+
+{'R1': [[('before', 'IN'), ('Ravtegh,', 'NN')], [('with', 'IN'), ('pictures,', 'NN')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': [[('are', 'VBP'), ('thoroughly', 'RB')], [('thoroughly', 'RB'), ('cleaned,', 'RB')]]}
+
+
+
+--------------
+On the day of Diwali, people put on their best clothes and exchange greetings, gifts and sweets with their friends and family
+
+22
+
+[('On', 'IN'), ('the', 'DT'), ('day', 'NN'), ('of', 'IN'), ('Diwali,', 'NN'), ('people', 'NNS'), ('put', 'VBN'), ('on', 'IN'), ('their', 'PRP$'), ('best', 'JJS'), ('clothes', 'NNS'), ('and', 'CC'), ('exchange', 'NN'), ('greetings,', 'NN'), ('gifts', 'NNS'), ('and', 'CC'), ('sweets', 'NNS'), ('with', 'IN'), ('their', 'PRP$'), ('friends', 'NNS'), ('and', 'CC'), ('family', 'NN')]
+
+3
+
+{'R1': [[('On', 'IN'), ('the', 'DT'), ('day', 'NN')], [('of', 'IN'), ('Diwali,', 'NN')], [('with', 'IN'), ('their', 'PRP$')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+At night, buildings are illuminated with earthen lamps, candlesticks and electric bulbs
+
+12
+
+[('At', 'IN'), ('night,', 'JJ'), ('buildings', 'NNS'), ('are', 'VBP'), ('illuminated', 'VBN'), ('with', 'IN'), ('earthen', 'JJ'), ('lamps,', 'NN'), ('candlesticks', 'NNS'), ('and', 'CC'), ('electric', 'JJ'), ('bulbs', 'NNS')]
+
+2
+
+{'R1': [[('At', 'IN'), ('night,', 'JJ'), ('buildings', 'NNS')], [('with', 'IN'), ('earthen', 'JJ'), ('lamps,', 'NN')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+Sweets and toy shops are decorated to attract the passers-by
+
+10
+
+[('Sweets', 'NNS'), ('and', 'CC'), ('toy', 'NN'), ('shops', 'NNS'), ('are', 'VBP'), ('decorated', 'VBN'), ('to', 'TO'), ('attract', 'VB'), ('the', 'DT'), ('passers-by', 'NNS')]
+
+1
+
+{'R1': [], 'R2': [], 'R3': [[('are', 'VBP'), ('decorated', 'VBN')]], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+The bazaars and streets are overcrowded
+
+6
+
+[('The', 'DT'), ('bazaars', 'NNS'), ('and', 'CC'), ('streets', 'NNS'), ('are', 'VBP'), ('overcrowded', 'JJ')]
+
+0
+
+{'R1': [], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+People buy sweets for their own families and also send them as presents to their friends and relatives
+
+18
+
+[('People', 'NNS'), ('buy', 'VBP'), ('sweets', 'NNS'), ('for', 'IN'), ('their', 'PRP$'), ('own', 'JJ'), ('families', 'NNS'), ('and', 'CC'), ('also', 'RB'), ('send', 'VB'), ('them', 'PRP'), ('as', 'IN'), ('presents', 'NNS'), ('to', 'TO'), ('their', 'PRP$'), ('friends', 'NNS'), ('and', 'CC'), ('relatives', 'NNS')]
+
+3
+
+{'R1': [[('for', 'IN'), ('their', 'PRP$')], [('as', 'IN'), ('presents', 'NNS')], [('to', 'TO'), ('their', 'PRP$')]], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+At night, the goddess Lakshmi, is worshiped in the form of earthen images, silver rupee
+
+15
+
+[('At', 'IN'), ('night,', 'NN'), ('the', 'DT'), ('goddess', 'NN'), ('Lakshmi,', 'NN'), ('is', 'VBZ'), ('worshiped', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('form', 'NN'), ('of', 'IN'), ('earthen', 'FW'), ('images,', 'FW'), ('silver', 'NN'), ('rupee', 'NN')]
+
+2
+
+{'R1': [[('At', 'IN'), ('night,', 'NN')]], 'R2': [], 'R3': [[('is', 'VBZ'), ('worshiped', 'VBN')]], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': []}
+
+
+
+--------------
+Hindus believe that on this day, Lakshmi enters only the houses which are neat and tidy
+
+16
+
+[('Hindus', 'NNS'), ('believe', 'VBP'), ('that', 'IN'), ('on', 'IN'), ('this', 'DT'), ('day,', 'FW'), ('Lakshmi', 'FW'), ('enters', 'VBZ'), ('only', 'RB'), ('the', 'DT'), ('houses', 'NNS'), ('which', 'WDT'), ('are', 'VBP'), ('neat', 'JJ'), ('and', 'CC'), ('tidy', 'JJ')]
+
+1
+
+{'R1': [], 'R2': [], 'R3': [], 'R4': [], 'R5': [], 'R6': [], 'R7': [], 'R8': [], 'R9': [], 'R10': [], 'R11': [], 'R12': [[('enters', 'VBZ'), ('only', 'RB')]]}
+
+
+
+--------------
