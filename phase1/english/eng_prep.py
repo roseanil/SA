@@ -219,7 +219,7 @@ def SenToPhrase (tagged_sentence):
 
 
 #-------get english text------
-eng_sent= open('english.txt', 'r').read()
+eng_sent= open('phase1/english.txt', 'r').read()
 
 
 #-------clean english-------

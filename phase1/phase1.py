@@ -33,7 +33,7 @@ intial.pop()
 
 #sentences are striped of punctuations
 #----------pickle lemmatized malayalam sentences-------------
-with open('malayalam_lemma.pickle', 'rb') as file:
+with open('mal/malayalam_lemma.pickle', 'rb') as file:
 	word_mal = pickle.load(file)
 
 
@@ -53,7 +53,7 @@ eng_sent.pop()
 
 #sentences are striped of punctuations and stopwords
 #----------pickle lemmatized english sentences
-with open('english_lemma.pickle', 'rb') as file:
+with open('english/english_lemma.pickle', 'rb') as file:
 	word_eng = pickle.load(file)
 
 
